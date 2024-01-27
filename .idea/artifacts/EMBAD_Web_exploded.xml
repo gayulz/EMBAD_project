@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="EMBAD:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/EMBAD_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="EMBAD/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="EMBAD" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="EMBAD/web/Web2" />
+    </root>
+  </artifact>
+</component>
