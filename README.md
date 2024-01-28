@@ -17,7 +17,7 @@
 > 시스템이 될 것 같습니다. 응급 의료 시스템의 효율성을 높히고 질 높은 의료서비스가 적시에 이루어   
 > 질 수 있는 것에 기여할 것으로 기대합니다.
 >     
-> 🔗 [EMBAD_발표PDF_Link](https://github.com/gayulz/Study/blob/main/EMBAD_project/EMBAD/%EC%9D%91%EA%B8%89%EC%8B%A4%20%EC%97%B0%EA%B3%84%20%ED%94%8C%EB%9E%AB%ED%8F%BC_%EA%B9%80%EA%B0%80%EC%9C%A8.pdf)    
+> 🔗 [EMBAD_발표PDF_Link](https://github.com/gayulz/EMBAD_project/blob/main/EMBAD_project.pdf)          
 
 &nbsp;
 &nbsp;
